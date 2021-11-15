@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title="Animal Trading Cards"> Animal Trading Cards</title>
+    <link rel="stylesheet" href="css/styles.css
+</head>
+<body>
+    <diV>
+        <h3>Sammy the Cat</h3>
+        <img src="friendly cat.jpg" alt="Sammy the Cat!>"
+    <diV>
+        <p>New study shows certain cat breeds are just as affection as dog.</p>
+        <ul>
+            <li><span> Breeds</span>: Maine Coon and persian</li>
+            <li><span>Average lifespan</span>: 10 years</li>
+            <li><span>Traits</span>: vocal</li>
+            <li><span>Maintenance Level</span>: medium</li>
+        </ul>
+        <p> Although there are more breed that love attention from their owners. This two are the most common.
+          With their love of speaking and readiness to cuddle,
+          they make wonderful pets for those looking for an independent but bondable animal</P>
+    </div>
+  </div>
+  </body>
+  </html>
